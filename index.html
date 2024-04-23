@@ -14,7 +14,7 @@
   </head>
 
   <body>
-    <div class="text-center pt-5" style="color: darkorange">Loading Site...</div>
+    <div id="remo" style="visibility: visible;" class="text-center pt-5" style="color: darkorange">Loading Site...</div>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
 
@@ -24,5 +24,15 @@
       crossorigin="anonymous"></script>
 
   </body>
+
+
+<script>
+  function Clear() {
+  document.getElementById("remo").style.visibility = "hidden";
+  }
+  setTimeout("Clear()", 19000);             
+    
+</script>
+
 
 </html>

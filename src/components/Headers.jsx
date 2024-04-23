@@ -131,7 +131,7 @@ function Headers() {
       </ul>
       <div className="sach">
      <div className="search-container">
-      <input className="mt-0" type="text1" style={{width:'280px'}} placeholder="Search for your Priest" id="Searchtextbox" aria-label="Search"/>
+      <input className="mt-0" type="text1" style={{width:'260px'}} placeholder="Search for your Priest" id="Searchtextbox" aria-label="Search"/>
       
        <button  className="btn" type="button" style={{backgroundColor:'darkorange', color:'white'}}  value="Search"  onClick={Headers1}><i className="fa fa-search"></i></button>
        </div>

@@ -6,8 +6,8 @@ function paymenthome() {
 
       <br></br> <br></br> <br></br><br></br> <br></br> <br></br>
       <div className='text-center'>
-    <h7 className="display-6 fw-bold 1h-1 mb-3 ">Welcome to Priests' Welfare Home Awka, Nigeria</h7>
-    
+    <h7 className="display-6 fw-bold 1h-1 mb-3 ">Welcome to Priests' Welfare Home Awka, Nigeria.</h7>
+    <br></br>
 <h5 className="fw-bold text-center">WE HONOUR YOUR PRESENCE</h5>
 <br></br> <br></br> 
 

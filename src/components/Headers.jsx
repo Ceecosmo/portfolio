@@ -51,7 +51,7 @@ function Headers() {
 <nav className="fixed-top navbar navbar-expand-lg bg-body-tertiary" >
   <div className="container" >
     <a className=" navbar-brand " href="/" ><img src={LOGO} /></a>
-    <button className="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent " aria-expanded="false" aria-label="Toggle navigation ">
+    <button className="navbar-toggler" style={{background: 'darkorange'}} type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent " aria-expanded="false" aria-label="Toggle navigation ">
       
       <span className="navbar-toggler-icon "></span>
     </button>
@@ -131,7 +131,7 @@ function Headers() {
       </ul>
       <div className="sach">
      <div className="search-container">
-      <input className="mt-0" type="text1" style={{width:'288px'}} placeholder="Search for your Priest" id="Searchtextbox" aria-label="Search"/>
+      <input className="mt-0" type="text1" style={{width:'280px'}} placeholder="Search for your Priest" id="Searchtextbox" aria-label="Search"/>
       
        <button  className="btn" type="button" style={{backgroundColor:'darkorange', color:'white'}}  value="Search"  onClick={Headers1}><i className="fa fa-search"></i></button>
        </div>

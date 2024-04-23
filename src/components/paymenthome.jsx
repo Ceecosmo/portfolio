@@ -10,7 +10,7 @@ import React from 'react'
       //   try{
           
 
-      //     const response = await axios.post('https://priestwelfareadmin.onrender.com/initiate-payment/', formData);
+      //     const response = await axios.post('https://priestwelfareadmin.onrender.com/', formData);
       //     console.log('Form submitted:', response.data);
       //     //Assuming the form submission was successful, you can handle it here
       //      // Process form submission
@@ -50,7 +50,7 @@ function paymenthome() {
 <h4 className="fw-bold text-center">WE HONOUR YOUR PRESENCE</h4>
 <br></br> <br></br> 
 
-<a href="https://priestwelfareadmin.onrender.com/initiate-payment/" className="btn btn-danger lg">PLEASE SUPPORT US<i className="fa fa-arrow-right ms-3 me-3"></i></a>
+<a href="https://priestwelfareadmin.onrender.com/" className="btn btn-danger lg">PLEASE SUPPORT US<i className="fa fa-arrow-right ms-3 me-3"></i></a>
 </div>
 <br></br> <br></br> <br></br><br></br> <br></br> <br></br> 
 

@@ -10,7 +10,7 @@ import axios from 'axios'
         try{
           
 
-          const response = await axios.post('https://priestwelfare.onrender.com/initiate-payment/', formData);
+          const response = await axios.post('https://priestwelfareadmin.onrender.com/initiate-payment/', formData);
           console.log('Form submitted:', response.data);
           //Assuming the form submission was successful, you can handle it here
            // Process form submission

@@ -6,9 +6,9 @@ function paymenthome() {
 
       <br></br> <br></br> <br></br><br></br> <br></br> <br></br>
       <div className='text-center'>
-    <h6 className="display-7 fw-bold 1h-1 mb-3 ">Welcome to Priests' Welfare Home</h6>
+    <h7 className="display-6 fw-bold 1h-1 mb-3 ">Welcome to Priests' Welfare Home</h7>
     
-<h4 className="fw-bold text-center">WE HONOUR YOUR PRESENCE</h4>
+<h5 className="fw-bold text-center">WE HONOUR YOUR PRESENCE</h5>
 <br></br> <br></br> 
 
 

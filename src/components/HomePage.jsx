@@ -58,10 +58,8 @@ function HomePage() {
                         <p style={{fontFamily:"verdana", color: "lightblue"}}>Stay Safe With Us, Stay Safe With Us, Stay Safe With Us.</p>
                       </div>
                     </div>
-                  </div>
-                </div>
 
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
@@ -69,6 +67,10 @@ function HomePage() {
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
+                  </div>
+                </div>
+
+                
               </div>
 
               <div className="col-md-1">

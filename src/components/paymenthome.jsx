@@ -12,7 +12,7 @@ function paymenthome() {
 <br></br> <br></br> 
 
 
-<a href="https://priestwelfare-adminsite.onrender.com" className="btn btn-danger lg">PLEASE SUPPORT US<i className="fa fa-arrow-right ms-3 me-3"></i></a>
+<a href="https://priestwelfare-adminsite.onrender.com/" className="btn btn-danger lg">PLEASE SUPPORT US<i className="fa fa-arrow-right ms-3 me-3"></i></a>
 
 </div>
 <br></br> <br></br> <br></br><br></br> <br></br> <br></br> 

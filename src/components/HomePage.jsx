@@ -203,7 +203,7 @@ function HomePage() {
             </div>
           </div>
           <div className="col-md-5" data-aos="fade-up">
-            <h2>Send Us Messages</h2>
+            <h2>Send Us Message</h2>
             <FORM />
           </div>
 

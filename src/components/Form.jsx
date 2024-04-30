@@ -38,7 +38,7 @@ function Form() {
     if (!formData.message.trim()) {
       errors.message = 'Message is required';
     } else if (formData.message.length < 10) {
-      errors.message = 'Text is too small, More than 9 text required111'
+      errors.message = 'Text is too small, More than 9 text required'
     }
     // You can add more validation rules for other fields as needed
     setErrors(errors);
